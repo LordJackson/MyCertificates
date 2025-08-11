@@ -12,6 +12,7 @@ Here's a list of the certificates I've gotten through on Code Signal
 - Programming Foundations with Python
 - Introduction to Simple Data Structures in Python
 - Mastering Control Structures in Python
+- Exploring Iteractions and Loops in Python
 
 *Fundamental Coding Interview Prep with Python*
 
