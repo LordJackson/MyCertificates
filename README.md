@@ -16,3 +16,8 @@ Here's a list of the certificates I've gotten through on Code Signal
 *Fundamental Coding Interview Prep with Python*
 
 - Revisiting Python Essentials
+
+*Correction: *
+
+These are actually not all certifications! The headings are the certificates, the context is the courses. 
+My apologies
